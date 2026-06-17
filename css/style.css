@@ -680,3 +680,35 @@ footer a:hover{
     left:0;
     color:#b88a44;
 }
+
+/* LEGAL PAGES */
+
+.legal-content{
+    background:#ffffff;
+    padding:40px;
+    border-radius:12px;
+    box-shadow:0 5px 20px rgba(0,0,0,.08);
+}
+
+.legal-content h2{
+    color:#3e2723;
+    margin-bottom:20px;
+}
+
+.legal-content h3{
+    color:#3e2723;
+    margin-top:30px;
+    margin-bottom:10px;
+}
+
+.legal-content p,
+.legal-content li{
+    line-height:1.8;
+    margin-bottom:12px;
+}
+
+.legal-content ul{
+    padding-left:20px;
+    list-style:disc;
+}
+
